@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 7 | 1 | 0 | 3 | 7 |
-| last60d | 2026-09-22 | 2 | 8 | 1 | 0 | 3 | 9 |
-| 90d | 2026-08-23 | 3 | 38 | 1 | 1 | 7 | 112 |
-| last180d | 2026-05-25 | 3 | 56 | 1 | 1 | 12 | 210 |
-| 360d | 2025-11-26 | 3 | 60 | 1 | 4 | 16 | 214 |
-| last720d | 2024-12-01 | 4 | 99 | 2 | 28 | 32 | 375 |
+| 30d | 2026-10-23 | 2 | 7 | 1 | 0 | 3 | 7 |
+| last60d | 2026-09-23 | 2 | 8 | 1 | 0 | 3 | 9 |
+| 90d | 2026-08-24 | 3 | 38 | 1 | 1 | 6 | 112 |
+| last180d | 2026-05-26 | 3 | 56 | 1 | 1 | 12 | 210 |
+| 360d | 2025-11-27 | 3 | 60 | 1 | 4 | 16 | 214 |
+| last720d | 2024-12-02 | 4 | 99 | 2 | 28 | 32 | 375 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for rmlint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T09:04:02Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:54:15Z._
