@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.11.0"
   latestRelease: "v2.11.0"
   latestPrerelease: "v2.11.0-rc.0"
-  collectedAt: 2026-11-27T10:34:14Z
+  collectedAt: 2026-11-28T09:33:51Z
 timeline:
   created: 2010-09-27
   lastCommit: 2026-11-01
@@ -34,15 +34,15 @@ language:
 totalBytes: 2713207
 recent:
   last30d:
-    since: 2026-10-28
-    release: 2
-    mergedPR: 6
-    openPR: 1
+    since: 2026-10-29
+    release: 1
+    mergedPR: 5
+    openPR: 0
     closedIssue: 0
     openIssue: 3
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
     mergedPR: 8
     openPR: 1
@@ -50,15 +50,15 @@ recent:
     openIssue: 3
     commit: 8
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 3
     mergedPR: 34
     openPR: 1
     closedIssue: 0
-    openIssue: 6
+    openIssue: 5
     commit: 88
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 3
     mergedPR: 56
     openPR: 1
@@ -66,21 +66,21 @@ recent:
     openIssue: 12
     commit: 210
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 3
-    mergedPR: 60
+    mergedPR: 59
     openPR: 1
     closedIssue: 4
     openIssue: 16
     commit: 213
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 4
     mergedPR: 98
     openPR: 2
     closedIssue: 28
     openIssue: 32
-    commit: 368
+    commit: 363
 total:
   release: 24
   mergedPR: 281
@@ -90,7 +90,7 @@ total:
   commit: 3792
 ---
 path: /home/runner/.x-repo/github.com/sahib/rmlint
-collectedAt: 2026-11-27T10:34:17Z
+collectedAt: 2026-11-28T09:33:54Z
 loc:
   AssemblyGAS:
     code: 19742
